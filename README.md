@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Victor e bem-vindo ao meu perfil!
 
 
-- 🔭 Hoje estou no 2º período de Análise e Desenvolvimento na Fatec Rio Preto
+- 🔭 Hoje estou no 4º período de Análise e Desenvolvimento na Fatec Rio Preto
 - 🌱 Estou estudando Python
 - 📫 Na busca por um estágio
 - 😄 Pronouns: ele/dele
